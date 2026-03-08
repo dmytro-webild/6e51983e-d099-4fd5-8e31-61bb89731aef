@@ -82,7 +82,7 @@ export default function ContactPage() {
             tagIcon={Phone}
             title="Ready for a Beautiful Yard?"
             description="Contact FB Landscaping today for a free estimate. Call us or fill out the form below and we'll get back to you within 24 hours."
-            imageSrc="http://img.b2bpic.net/free-photo/house-with-fence-around-it-with-clear-sky_181624-3120.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/house-with-fence-around-it-with-clear-sky_181624-3120.jpg?_wi=3"
             imageAlt="Addison, Illinois location"
             mediaPosition="right"
             mediaAnimation="slide-up"
